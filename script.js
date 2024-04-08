@@ -80,5 +80,7 @@ papers.forEach(paper => {
   const p = new Paper();
   p.init(paper);
 });
-
+alert("Hey sweet Heart, turn on the audio there!");
+alert("And one thing Start sliding the papers When lyrics Starts!");
+ 
  
